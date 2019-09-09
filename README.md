@@ -28,3 +28,7 @@ step-3: Dynamic Equations
 
 ![](Images/sideslip.png)
 ![](Images/windtobody.png)
+
+
+
+Reference: https://journals.sagepub.com/doi/pdf/10.1177/1729881417738103
