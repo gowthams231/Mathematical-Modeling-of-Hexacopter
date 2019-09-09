@@ -27,3 +27,4 @@ step-3: Dynamic Equations
 
 
 ![](Images/sideslip.png)
+![](Images/windtobody.png)
