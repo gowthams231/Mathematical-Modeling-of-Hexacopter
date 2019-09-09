@@ -24,3 +24,6 @@ step-3: Dynamic Equations
 
 
 2) Rotational Dynamics:
+
+
+![](Images/sideslip.png)
