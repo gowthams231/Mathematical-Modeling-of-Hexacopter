@@ -65,4 +65,6 @@ Refer Dr.Atilla Dogan's:
 
 ![](Images/moment5.png)
 
+![](Images/rotmatrixforangularvel.png)
+
 Reference: https://journals.sagepub.com/doi/pdf/10.1177/1729881417738103
