@@ -67,4 +67,6 @@ Refer Dr.Atilla Dogan's:
 
 ![](Images/rotmatrixforangularvel.png)
 
+theta not equal to pi/2+pi*k, k belongs to integers
+
 Reference: https://journals.sagepub.com/doi/pdf/10.1177/1729881417738103
