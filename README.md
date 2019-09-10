@@ -32,7 +32,11 @@ Refer Dr.Atilla Dogan's: ![](Images/TDandRD.png)
 1) Translational Dynamics:
 
 ![](Images/TD.png)
-
+![](Images/Force.png)
+![](Images/Force1.png)
+![](Images/Force2.png)
+![](Images/Force4.png)
+![](Images/Force6.png)
 
 2) Rotational Dynamics:
 
