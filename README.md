@@ -25,18 +25,16 @@ Refer Dr.Atilla Dogan's: ![](Images/TDandRD.png)
 ![](Images/Epsilon.png)
 ![](Images/Khai.png)
 ![](Images/U.png)
+![](Images/sideslip.png)
+![](Images/windtobody.png)
 
 
 1) Translational Dynamics:
 
+![](Images/TD.png)
 
 
 2) Rotational Dynamics:
-
-
-![](Images/sideslip.png)
-![](Images/windtobody.png)
-
 
 
 Reference: https://journals.sagepub.com/doi/pdf/10.1177/1729881417738103
