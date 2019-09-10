@@ -57,8 +57,6 @@ Refer Dr.Atilla Dogan's:
 
 2) Rotational Dynamics:
 
-![](Images/Moment1.png)
-
 ![](Images/moment2.png)
 
 ![](Images/moment3.png)
