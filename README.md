@@ -9,17 +9,18 @@ The orientation given by three Euler angles [phi, theta, psi] where (-pi/2 < phi
 
 Step-2: Forces and Torques acting on body
 Forces:
-1) Thrust
-2) Gravity
-3) Drag(It is the opposing force to the traveling of the solid body in air resulted from the aerodynamic friction)
+1) Thrust force
+2) Gravity force
+3) Drag force
 4) Disturbance(Other forces like the Coriolis force from the earth, the wind and Euler forces are considered as a disturbance)
 
 Torques:
-
-
+1) Thrust moment 
+2) Motors inertia moment
+3) Aerodynamic moment
+4) Disturbances moment
 
 step-3: Dynamic Equations
-
 
 Refer Dr.Atilla Dogan's: 
 
