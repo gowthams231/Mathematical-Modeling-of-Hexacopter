@@ -24,6 +24,8 @@ step-3: Dynamic Equations
 
 Refer Dr.Atilla Dogan's: 
 
+![](Images/Moment1.png)
+
 ![](Images/TDandRD.png)
 
 ![](Images/Epsilon.png)
@@ -55,5 +57,14 @@ Refer Dr.Atilla Dogan's:
 
 2) Rotational Dynamics:
 
+![](Images/Moment1.png)
+
+![](Images/moment2.png)
+
+![](Images/moment3.png)
+
+![](Images/moment4.png)
+
+![](Images/moment5.png)
 
 Reference: https://journals.sagepub.com/doi/pdf/10.1177/1729881417738103
