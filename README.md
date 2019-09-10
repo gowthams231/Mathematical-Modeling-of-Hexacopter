@@ -21,22 +21,36 @@ Torques:
 step-3: Dynamic Equations
 
 
-Refer Dr.Atilla Dogan's: ![](Images/TDandRD.png)
+Refer Dr.Atilla Dogan's: 
+
+![](Images/TDandRD.png)
+
 ![](Images/Epsilon.png)
+
 ![](Images/Khai.png)
+
 ![](Images/U.png)
+
 ![](Images/sideslip.png)
+
 ![](Images/windtobody.png)
 
 
 1) Translational Dynamics:
 
-![](Images/TD.png)
 ![](Images/Force.png)
+
 ![](Images/Force1.png)
+
 ![](Images/Force2.png)
+
 ![](Images/Force4.png)
+
 ![](Images/Force6.png)
+
+![](Images/TD.png)
+
+![](Images/TD1.png)
 
 2) Rotational Dynamics:
 
