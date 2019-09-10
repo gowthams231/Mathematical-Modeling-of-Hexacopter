@@ -19,6 +19,11 @@ Torques:
 
 
 step-3: Dynamic Equations
+Refer Dr.Atilla Dogan's:
+![](Images/TDandRD.png)
+![](Images/Epsilon.png)
+![](Images/Khai.png)
+![](Images/U.png)
 1) Translational Dynamics:
 
 
