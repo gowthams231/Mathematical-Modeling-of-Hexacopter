@@ -69,4 +69,8 @@ Refer Dr.Atilla Dogan's:
 
 theta not equal to pi/2+pi*k, k belongs to integers
 
+Step 4: Motor mixing algorithm
+
+
+
 Reference: https://journals.sagepub.com/doi/pdf/10.1177/1729881417738103
