@@ -75,5 +75,9 @@ Step 4: Motor mixing algorithm
 
 
 Reference: https://journals.sagepub.com/doi/pdf/10.1177/1729881417738103
+
 http://www.ijcstjournal.org/volume-6/issue-4/IJCST-V6I4P4.pdf
+
 https://www.ijais.org/research/volume9/number5/moussid-2015-ijais-451411.pdf
+
+https://pdfs.semanticscholar.org/a66e/4ab238536c4f8a927d58ec37a5ab12e7f4d8.pdf
