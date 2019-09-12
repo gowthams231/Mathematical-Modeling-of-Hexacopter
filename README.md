@@ -73,6 +73,9 @@ Step 4: Motor mixing algorithm
 
 ![](Images/motormix.png)
 
+Rotation matrix:
+
+![](Images/R_matrix.png)
 
 Reference: https://journals.sagepub.com/doi/pdf/10.1177/1729881417738103
 
