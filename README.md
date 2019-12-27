@@ -9,7 +9,7 @@ Step-1: Choosing Configuration
 
 ![](Images/hex_config.png)
 
-The orientation given by three Euler angles [phi, theta, psi] where (-pi/2 < phi,theta < pi/2) and (-pi < psi <pi)
+The orientation given by three Euler angles [phi, theta, psi] where (-pi/2 < phi,theta < pi/2) and (-pi < psi < pi)
 
 Step-2: Forces and Torques acting on body
 Forces:
