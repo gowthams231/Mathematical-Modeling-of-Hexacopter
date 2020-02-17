@@ -1,7 +1,7 @@
 To Skycart(Drone Delivery Solutions)
 
 -by Gowtham Sai Garikipati
-
+...
 # Mathematical-Modeling-of-Hexacopter
 Dynamic Equations of Hexacopter explained in detail
 
